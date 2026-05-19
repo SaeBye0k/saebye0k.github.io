@@ -6,7 +6,7 @@ export default function Header() {
       <div className="container header-inner">
         <Link href="/" className="logo">
           <span className="logo-dot" />
-          <span>Chanho Archive</span>
+          <span>Test</span>
         </Link>
         <nav className="nav" aria-label="Main navigation">
           <Link href="/posts">Posts</Link>
