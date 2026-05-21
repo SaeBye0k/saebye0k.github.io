@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "About | Chanho Archive",
+  title: "About | SaeByeok Archive",
   description: "윤찬호 소개 페이지",
 };
 
