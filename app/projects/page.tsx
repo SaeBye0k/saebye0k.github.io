@@ -2,7 +2,7 @@ import PostCard from "@/components/PostCard";
 import { getProjectPosts } from "@/lib/posts";
 
 export const metadata = {
-  title: "Projects | Chanho Archive",
+  title: "Projects | Saebyeok Archive",
   description: "프로젝트 게시글 목록",
 };
 
